@@ -1,0 +1,15 @@
+GIT:
+---
+   Need of Git:
+   --- --- ---
+       The Process Of monitoring team members work and activities in the project development is callrd VCS(VERSION CONTROL SYSTEM).
+	   VCS Advantages:
+	   --- ---------
+	   (a)Keep Tracks of various version of files i,e whos has done modification where ,how many modifications are their which modification done by which programmer,how manty times done,where it has done and at what time it has done(track history of files)
+	   b)Resolve the  conflicts when multiple developers working conflicts come
+	   c)Allows to shhare the code multiple team mrembers i.e one developers needs another developer code in the team project.
+	   d)Allows merge multiple version of files to single final version
+	   c)Allow to lock the file.
+	    note:
+		   Bothworking in the VCS monitoring env.. Developers and Testers of the project will be 
+	   
